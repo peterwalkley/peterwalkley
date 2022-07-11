@@ -2,17 +2,17 @@
 
 ### Summary
 Java software development specialist in the activation line working with tier 1 Telco customers. The primary focus is activation of end customer devices
-and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed and wireless lines. Currently working as lead
+and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed & wireless lines, billing and charging capture. Currently working as a technical lead
 developer and customer bridgehead on a consolidation and cloud transformation project for a major European Telco.
 
-Main technologies used : Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT.
+Main technologies used : Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT, JMS, MQ Series, Kafka.
 
 ### Experience
 #### Software Development Specialist - Amdocs - Nov 99 - Present
 Joined Jacobs Rimell as a contractor then became permanent in September 2001. Jacobs Rimell was acquired by Amdocs in April 2008.
-Primary function is development and maintenance of delivery projects for key customers. Ad-hoc parts of the role based on demand are:
+Primary function is development and maintenance of delivery projects for key customers. Non-development parts of the role based on project demand are:
+* Technical expertise to support bids for new customers
 * Working with architecture team to design and specify new features
-* Recognized industry expertise to support bids for new customers
 * Development support for go-live activities and production issues
 * Mentoring and training developers, both in the UK and offshore
 * Estimation and reporting to provide input to project management
@@ -54,5 +54,3 @@ Designed and developed the Finance, Marketing and Quality extensions alongside k
 #### The King's School Chester
 * A levels: Maths, Physics, Chemistry, General Studies
 * O Levels: Maths, Further Maths, Physics, Chemistry, Biology, English Language, English Literature, French, Latin, Geography
-
-
