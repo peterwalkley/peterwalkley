@@ -2,10 +2,9 @@
 
 ### Summary
 Java software development specialist in the activation line working with tier 1 Telco customers. The primary focus is activation of end customer devices
-and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed & wireless lines, billing and charging capture. Currently working as a technical lead
-developer and customer bridgehead on a consolidation and cloud transformation project for a major European Telco.
+and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed & wireless lines, billing and charging capture. Currently working as a technical lead developer and customer bridgehead on a consolidation and cloud transformation project for a major European Telco. The project is a migration and merge of several legacy system to a cloud native stack running on AWS.
 
-Main technologies used : Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT, JMS, MQ Series, Kafka.
+Main technologies used : Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, AWS, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT, JMS, MQ Series, Kafka.
 
 ### Experience
 #### Software Development Specialist - Amdocs - Nov 99 - Present
@@ -17,7 +16,7 @@ Primary function is development and maintenance of delivery projects for key cus
 * Mentoring and training developers, both in the UK and offshore
 * Estimation and reporting to provide input to project management
 
-Sample customer projects:
+Sample previous customer projects:
 
 ##### EU wide Telco and Cable providor with headquaters in The Netherlands
 Development lead for customisation and delivery of the APS/AUA suite into over 10 country affiliates. APS manages the provisioning of voice and high speed data services
