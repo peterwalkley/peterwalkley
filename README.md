@@ -18,7 +18,7 @@ Primary function is development and maintenance of delivery projects for key cus
 
 Sample previous customer projects:
 
-##### EU wide Telco and Cable providor with headquaters in The Netherlands
+##### EU wide Telco and Cable provider with headquarters in The Netherlands
 Development lead for customisation and delivery of the APS/AUA suite into over 10 country affiliates. APS manages the provisioning of voice and high speed data services
 for Internet Service Providers. APS began as a proprietary middleware based solution and migrated to weblogic. Team varied in size from 1 to 7 developers based on workload.
 
