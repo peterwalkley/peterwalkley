@@ -1,22 +1,25 @@
 ## Peter Walkley - Java Software Development Specialist at Amdocs OSS Division
 
 ### Summary
-Java software development specialist in the activation line working with tier 1 Telco customers. The primary focus is activation of end customer devices
-and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed & wireless lines, billing and charging capture. Currently working as a technical lead developer and customer bridgehead on a consolidation and cloud transformation project for a major European Telco. The project is a migration and merge of several legacy system to a cloud native stack running on AWS.
+Java software development specialist in the activation line working with tier 1 Telco customers. The primary focus is activation of end customer devices and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed & wireless lines, billing and charging capture. 
 
-Main technologies used : Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, AWS, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT, JMS, MQ Series, Kafka.
+Main technologies used: Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, AWS, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT, JMS, MQ Series, Kafka, SOAP, REST, JSON.
 
 ### Experience
 #### Software Development Specialist - Amdocs - Nov 99 - Present
 Joined Jacobs Rimell as a contractor then became permanent in September 2001. Jacobs Rimell was acquired by Amdocs in April 2008.
-Primary function is development and maintenance of delivery projects for key customers. Non-development parts of the role based on project demand are:
+Primary role is development and maintenance of delivery projects for key customers. Additional responsibilities across multiple customers and for enhancement of core capabilities include:
+* Working with product architecture team to design and specify new features
 * Technical expertise to support bids for new customers
-* Working with architecture team to design and specify new features
-* Development support for go-live activities and production issues
-* Mentoring and training developers, both in the UK and offshore
+* Mentoring and training developers, UK and offshore
 * Estimation and reporting to provide input to project management
+* Cross project domain, design and development knowledge
 
-Sample previous customer projects:
+
+Major customer delivery projects:
+
+##### Cloud Migration and Legacy Consolidation Project – Major Telco in Germany
+Currently working as a technical lead developer and customer bridgehead on a multiyear project to rationalise legacy systems and migrate to AWS, covering both cable and voice lines of business.
 
 ##### EU wide Telco and Cable provider with headquarters in The Netherlands
 Development lead for customisation and delivery of the APS/AUA suite into over 10 country affiliates. APS manages the provisioning of voice and high speed data services
