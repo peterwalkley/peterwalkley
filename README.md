@@ -1,58 +1,46 @@
-## Peter Walkley - Java Software Development Specialist at Amdocs OSS Division
+# Peter Walkley - Java Software Development Specialist at Amdocs OSS Division
 
-### Summary
-Java software development specialist in the activation line working with tier 1 Telco customers. The primary focus is activation of end customer devices and services on the telco network, including cable modems, phone handsets, sim cards, voicemail, fixed & wireless lines, billing and charging capture. 
+## Summary
+A "Hands on" Java technical lead with a long track record of successful deliveries to production. I work closely with many levels of the customer as a trusted subject matter expert to deliver operational systems supporting the phone and internet services of millions of people worldwide.
 
-Main technologies used: Java core, J2EE, X.500, LDAP, PKI, Oracle, Postgres, JMS, OSS/J, AWS, microservices, docker, Kubernetes, Helm, Quarkus, XML/XSLT, JMS, MQ Series, Kafka, SOAP, REST, JSON.
+Technology keywords: Java, J2EE, AWS, microservices, Docker, Kubernetes, Helm, X.500 / LDAP, PKI / X.509, Oracle, Postgres, OSS/J, Spring, Quarkus, JMS, Kafka, XML & XSLT, SOAP, REST, JSON, Agile, Devops
 
-### Experience
-#### Software Development Specialist - Amdocs - Nov 99 - Present
-Joined Jacobs Rimell as a contractor then became permanent in September 2001. Jacobs Rimell was acquired by Amdocs in April 2008.
-Primary role is development and maintenance of delivery projects for key customers. Additional responsibilities across multiple customers and for enhancement of core capabilities include:
-* Working with product architecture team to design and specify new features
-* Technical expertise to support bids for new customers
-* Mentoring and training developers, UK and offshore
-* Estimation and reporting to provide input to project management
-* Cross project domain, design and development knowledge
+## Experience
+### Software Development Specialist - Amdocs - Nov 99 - Present
+OSS division works with Telecommunication Providers to provide activation of end customer devices and related services on the Telco network: including cable & DSL modems, phone handsets, SIM & eSIM, voicemail, fixed & wireless line, billing and charging capture. This requires integration with multiple third party network technology providers such as Comptel, Ericsson, Huawei, Nokia, Siemens and customer proprietary systems.
+My role is software design, development and maintenance of delivery projects for key customers. Additional responsibilities across multiple accounts and for enhancement of core capabilities include:
+* Working with product architecture team to design and develop new features
+* Deep dive troubleshooting when support specialists are unable to resolve a problem
+* Mentoring and training developers, UK, customer site and offshore
+* Cross project and line of business design and development expertise
+* Support bids for new customers including PoC demonstrations and cost estimates
 
+Sample delivery projects:
 
-Major customer delivery projects:
+#### Cloud Migration and Legacy Consolidation Project – Vodafone Germany
+Jun 2019 - Present. Technical lead developer and customer bridgehead on a multiyear project to rationalise legacy systems and migrate to cloud native AWS Kubernetes microservice architecture, covering both cable and voice lines of business. Agile (SAFE) teams are mixed Vodafone and vendor members that cover full devops of design, development, test, deploy (through to production) and third line customer support.
 
-##### Cloud Migration and Legacy Consolidation Project – Major Telco in Germany
-Currently working as a technical lead developer and customer bridgehead on a multiyear project to rationalise legacy systems and migrate to AWS, covering both cable and voice lines of business.
+#### Telefonica Argentina, Chile and Peru
+Lead for customisation and rollout of the AUA weblogic based product line to support mobile provisioning for all three countries plus fixed-line voice provisioning for Argentina.
 
-##### EU wide Telco and Cable provider with headquarters in The Netherlands
-Development lead for customisation and delivery of the APS/AUA suite into over 10 country affiliates. APS manages the provisioning of voice and high speed data services
-for Internet Service Providers. APS began as a proprietary middleware based solution and migrated to weblogic. Team varied in size from 1 to 7 developers based on workload.
-
-##### South American Telco
-Development lead for customisation and rollout of the AUA product line to support mobile and fixed-line voice provisioning to three countries in South America
-and ad-hoc assistance to a fourth.
+#### Liberty Global (formerly known as UPC)
+Lead for customisation and delivery of the APS/AUA suite into 11 country affiliates. APS manages the provisioning of voice and high speed data services. It began as a proprietary middleware based solution and migrated to weblogic. Team varied in size from 1 to 7 developers based on workload.
 ___
-#### Contract Java Software Developer - Sun Microsystems - Jan 1999 - Oct 1999
+### Contract Java Software Developer - Sun Microsystems - Jan 1999 - Oct 1999
 Joined an in-house team to help develop an internal system used to track Sun's loan, demonstration and hire equipment to third parties.
 ___
-#### Contract Java Software Developer - InterClear - Sep 1997 - Nov 1998
-Java server-side development using NetDynamics and Oracle 8 to build the public website of InterClear to issue PKI based server and personal digital certificates.
-InterClear was a Certificate Authority started as a joint venture between CardClear PLC and JCP Computer Services. It was later bought by De La Rue.
+### Contract Java Software Developer - InterClear - Sep 1997 - Nov 1998
+Java server-side development using NetDynamics and Oracle 8 to build the public website of InterClear - a digital Certificate Authority issuing X.509 SSL server and personal identity certificates.
 ___
-#### Software Engineer - ICL Financial Services - Jan 1995 - Aug 1997
-Recruited as a C++ object oriented software specialist for an R&D project to develop techniques and technologies to build a distributed computing framework.
-In current technology this would be called a Service Oriented Architecture.  Cross-trained to learn java and then became Technical team leader of 5 other
-java developers who built the online PC Banking Service for FirstDirect.
+### Software Engineer - ICL Financial Services - Jan 1995 - Aug 1997
+Recruited as a C++ OO specialist for an R&D project to prototype techniques and tools to build a distributed computing framework / Service Oriented Architecture.
+Cross-trained to learn java and then promoted to team leader of 5 other developers to build the first online PC Banking Service for FirstDirect.
 ___
-#### Software Developer - April Training Executive Ltd - Aug 1985 - Dec 1994
-Summer job whilst at Imperial College, then full time on graduation.
+### Software Developer - April Training Executive Ltd - Aug 1985 - Dec 1994
+C/C++ Developer for the Executive, Entrepreneur and Trader Management Training Business Simulations. Delivered training courses to customers using the simulations as part of management training programmes.
 
-Lead developer for the Executive, Entrepreneur and Trader products. These are Business Simulations for Management Training that model a competitive
-marketplace for participants to run their own business. Development began in BASIC, then was later migrated to C and C++ for a more robust and scalable platform.
-
-Delivered training courses to customers using the software as part of management training programmes.
-
-Designed and developed the Finance, Marketing and Quality extensions alongside key customers.
-
-### Education
-#### Imperial College - Bsc(Eng) Computer Science
-#### The King's School Chester
-* A levels: Maths, Physics, Chemistry, General Studies
-* O Levels: Maths, Further Maths, Physics, Chemistry, Biology, English Language, English Literature, French, Latin, Geography
+## Education
+* Imperial College - BSc(Eng) Computer Science 1988
+*  The King's School Chester:
+    * A levels: Maths, Physics, Chemistry, General Studies
+    * O Levels: Maths, Further Maths, Physics, Chemistry, Biology, English Language, English Literature, French, Latin, Geography
