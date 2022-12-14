@@ -3,7 +3,7 @@
 ## Summary
 A "Hands on" Java technical lead with a long track record of successful deliveries to production. I work closely with many levels of the customer as a trusted subject matter expert to deliver operational systems supporting the phone and internet services of millions of people worldwide.
 
-Technology keywords: Java, J2EE, AWS, microservices, Docker, Kubernetes, Helm, X.500 / LDAP, PKI / X.509, Oracle, Postgres, OSS/J, Spring, Quarkus, JMS, Kafka, XML & XSLT, SOAP, REST, JSON, Agile, Devops
+Technology keywords: Java, J2EE, AWS, microservices, Docker, Kubernetes, Helm, X.500 / LDAP, PKI / X.509, Oracle, Postgres, OSS/J, Spring, Quarkus, JMS, Kafka, XML & XSLT, SOAP, REST, JSON, junit, cucumber, Agile, DevOps, Jenkins, maven, Datadog, Openstack
 
 ## Experience
 ### Software Development Specialist - Amdocs - Nov 99 - Present
@@ -21,10 +21,10 @@ Sample delivery projects:
 Jun 2019 - Present. Technical lead developer and customer bridgehead on a multiyear project to rationalise legacy systems and migrate to cloud native AWS Kubernetes microservice architecture, covering both cable and voice lines of business. Agile (SAFE) teams are mixed Vodafone and vendor members that cover full devops of design, development, test, deploy (through to production) and third line customer support.
 
 #### Telefonica Argentina, Chile and Peru
-Lead for customisation and rollout of the AUA weblogic based product line to support mobile provisioning for all three countries plus fixed-line voice provisioning for Argentina.
+Technical lead for customisation and rollout of the AUA weblogic based product line to support mobile provisioning for all three countries plus fixed-line voice provisioning for Argentina.
 
 #### Liberty Global (formerly known as UPC)
-Lead for customisation and delivery of the APS/AUA suite into 11 country affiliates. APS manages the provisioning of voice and high speed data services. It began as a proprietary middleware based solution and migrated to weblogic. Team varied in size from 1 to 7 developers based on workload.
+Lead developer for customisation and delivery of the APS/AUA suite into 11 country affiliates. APS manages the provisioning of voice and high speed data services. It began as a proprietary middleware based solution and migrated to weblogic. Team varied in size from 1 to 7 developers based on workload.
 ___
 ### Contract Java Software Developer - Sun Microsystems - Jan 1999 - Oct 1999
 Joined an in-house team to help develop an internal system used to track Sun's loan, demonstration and hire equipment to third parties.
