@@ -47,12 +47,6 @@ C/C++ Developer for the Executive, Entrepreneur and Trader Management Training B
     * A levels: Maths, Physics, Chemistry, General Studies
     * O Levels: Maths, Further Maths, Physics, Chemistry, Biology, English Language, English Literature, French, Latin, Geography
 
-## Personal Information
-
-* email:  p.walkleyuk@googlemail.com
-* Tel: 07774-851400 or 0151-348-1774
-* Location: Cheshire West & Chester
-
 #### Technology Keywords
 Java, J2EE, AWS, microservices, Docker, Kubernetes, Helm, X.500 / LDAP, PKI / X.509, Oracle, Postgres, OSS/J, Spring, Quarkus, WebLogic, JMS, Kafka, RabbitMQ, MQ Series, XML & XSLT, SOAP, REST, JSON, junit, cucumber, JMeter, SAFE, Agile, DevOps, Jenkins, CI/CD, maven, Datadog, Openstack, git, Perforce.
 
