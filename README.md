@@ -1,30 +1,33 @@
 # Peter Walkley - Java Staff Engineer at Amdocs OSS Division
 
 ## Summary
-Java software engineer delivering network provisioning systems to multiple Tier 1 telecommunications providers for over 20 years. 
-Skilled in cloud-native solutions, cross-functional collaboration, and customer-centric technical leadership.
-Proficient in Java, J2EE, AWS, microservices, Docker, Kubernetes, RESTful APIs, and cloud migration. 
+Building network provisioning systems with java and microservices for Tier 1 telecommunications providers, ensuring their mobile phone and internet services are scalable, highly available and resilient.
+
+Proficient in Java, J2EE, AWS, microservices, Docker, Kubernetes, RESTful APIs, and cloud migration.
+Skilled in cloud-native solutions, cross-functional collaboration, and customer centric technical leadership.
 
 ## Experience
-### Amdocs OSS Division - Nov 99 - Present
-Joined startup Jacobs Rimell (acquired by Amdocs in 2008) as a Java Developer.
-OSS division works with Telecommunication Providers to provide activation of end customer devices and related services on the network: including cable & DSL modems, phone handsets, SIM & eSIM, voicemail, fixed & wireless line, billing and charging capture. Typically requiring integration with multiple third party network technology providers such as Comptel, Ericsson, Huawei, Nokia, Siemens and customer proprietary systems.
-Primary role is to lead software design, development and maintenance of projects for key customers. Other ad-hoc responsibilities include:
+### Amdocs OSS Division - Nov 99 - July 2026
+Joined start up Jacobs Rimell (acquired by Amdocs in 2008) as a Java Developer.
+OSS division works with Telecommunication Providers to provide activation of subscriber devices and related services on the network, including cable & DSL modems, phone handsets, SIM & eSIM, voicemail, fixed & wireless line, billing and charging capture. Typically requiring integration with multiple third party network technology providers such as Comptel, Ericsson, Huawei, Nokia, Siemens and customer proprietary systems. Interfaces are mostly REST or SOAP but can also include proprietary protocols.
+I lead software design, development and maintenance of projects for key customers. Additional responsibilities include:
 * Working with product architecture team to design and develop new features
+* Mentoring and training developers, UK, offshore and customer
 * Cross project and line of business design and development expertise
 * Deep dive troubleshooting when support specialists are unable to resolve a problem
-* Mentoring and training developers, UK, offshore and customer site
 * Support bids for new customers including PoC demonstrations and cost estimates
 
-Selected projects:
+All OSS cloud native projects use a baseline technology of java 21 (recently updated from 17), Spring framework, Kafka, junit, Cucumber for BDD testing, Jenkins for CI/CD, docker, Kubernetes and helm.  SONAR, checkmarx and Black Duck for code quality & CVE scanning. Legacy projects were Weblogic/J2EE and java 8. Internal development on AWS, production dependent on the customer choice. System monitoring is also governed by the customer: Prometheus, Grafana, Splunk and Datadog all used.
+
+Notable projects:
 #### Cloud Migration and Legacy Consolidation – Vodafone Germany
-Lead OSS engineer and customer bridgehead on a multiyear project to rationalise legacy systems and migrate to cloud native AWS Kubernetes microservice architecture, covering both cable (10m subscribers) and voice (30m customers) lines of business. Agile (SAFE) teams of mixed Vodafone and vendor members that cover full DevOps of design, development, test, deploy (through to production) and third line customer support.
+Lead OSS engineer and customer bridgehead on a multiyear project to rationalise legacy systems and migrate to cloud native microservice architecture on AWS and Kubernetes. Covering both cable (10m subscribers) and voice (30m customers). Agile (SAFE) teams of mixed Vodafone and vendor members that cover full DevOps of design, development, test, deploy (through to production) and third line customer support.
 #### Cloud Migration – Vodafone Ziggo Netherlands
-Lead engineer for migration of legacy Weblogic OSS solution to Cloud native covering 9m subscribers for mobile and fixed line services.
+Lead engineer for migration of legacy Weblogic OSS solution to microservice Cloud native covering 9m subscribers for mobile and fixed line services.
 #### Telefonica Argentina, Brazil, Chile and Peru
-Lead for customisation and rollout of the AUA WebLogic based product line to support mobile provisioning for all four countries  (over 100m subscribers) plus fixed-line voice provisioning for Argentina. Design lead for current cloud migration projects to microservices on Azure: three of the four migrations completed.
+Lead for customisation and rollout of the AUA WebLogic based product line to support mobile provisioning for all four countries  (over 100m subscribers) plus fixed-line voice provisioning for Argentina. Subsequent lead for cloud migration projects to microservices on Azure.
 #### Liberty Global (formerly known as UPC)
-Lead for customisation and delivery of the APS/AUA suite into 11 European country affiliates. APS manages the provisioning of voice and high speed data services. It began as a proprietary middleware based solution and migrated to WebLogic. Team varied in size from 1 to 7 developers based on workload.
+Lead for customisation and delivery of the AUA suite into 11 European country affiliates. APS managed the provisioning of voice and high speed data services. Team varied in size from 1 to 7 developers.
 #### Sky UK & Italy
 Designer and developer to support both a legacy WebLogic and AWS cloud native solution delivering Telephony services for Sky retail and business customers.
 ___
